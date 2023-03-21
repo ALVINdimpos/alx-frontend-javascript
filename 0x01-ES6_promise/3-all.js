@@ -1,4 +1,3 @@
-// Handle multiple successful promises with Promise.all()
 import { uploadPhoto, createUser } from './utils';
 
 export default function handleProfileSignup() {

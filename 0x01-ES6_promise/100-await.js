@@ -1,4 +1,3 @@
-// Await / Async 
 import { uploadPhoto, createUser } from './utils';
 
 const asyncUploadUser = async () => {
